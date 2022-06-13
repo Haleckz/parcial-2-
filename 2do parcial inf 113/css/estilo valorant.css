@@ -1,0 +1,53 @@
+*
+{
+	margin: 5px;
+}
+html, body
+{
+	height: 100%;
+	position: relative;
+}
+h1
+{
+	color:#53212B;
+	font-size: 40px;
+}
+h2
+{
+	color:#53212B;
+	font-size: 30px;
+}
+p
+{
+	color:#000000;
+	font-size: 20px;
+}
+section
+{
+	float: left;
+	height: 400px;
+	width: 55%;
+}
+aside
+{
+	float: right;
+	height: 400px;
+	width: 43%;
+	background-color:#53212B;
+}
+.caja
+{
+	min-height: calc(100% + 20rem);
+}
+footer
+{
+	height: 3rem;
+}
+.centrear
+{
+	text-align: center;
+}
+a
+{
+	color:#53212B;
+}
